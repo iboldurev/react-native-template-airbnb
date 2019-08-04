@@ -6,7 +6,7 @@
  * @flow
  */
 
-import React, { Fragment } from 'react'
+import React, { Fragment } from 'react';
 import {
   SafeAreaView,
   StyleSheet,
@@ -14,7 +14,7 @@ import {
   View,
   Text,
   StatusBar,
-} from 'react-native'
+} from 'react-native';
 
 import {
   Header,
@@ -22,7 +22,7 @@ import {
   Colors,
   DebugInstructions,
   ReloadInstructions,
-} from 'react-native/Libraries/NewAppScreen'
+} from 'react-native/Libraries/NewAppScreen';
 
 const App = () => {
   return (
@@ -70,8 +70,8 @@ const App = () => {
         </ScrollView>
       </SafeAreaView>
     </Fragment>
-  )
-}
+  );
+};
 
 const styles = StyleSheet.create({
   scrollView: {
@@ -110,6 +110,6 @@ const styles = StyleSheet.create({
     paddingRight: 12,
     textAlign: 'right',
   },
-})
+});
 
-export default App
+export default App;
