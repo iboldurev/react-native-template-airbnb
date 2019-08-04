@@ -11,7 +11,7 @@
 ## :arrow_forward: Usage
 
 ```sh
-react-native init MyApp --template airbnb
+npx react-native init MyApp --template react-native-template-airbnb
 ```
 
 ## :computer: Contributing
