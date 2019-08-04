@@ -63,3 +63,5 @@ yarn.lock
 *.coverage.json
 .circleci
 .eslintignore
+
+package-lock.json
