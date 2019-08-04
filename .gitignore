@@ -52,6 +52,9 @@ Thumbs.db
 template/android/build
 template/android/.settings
 
+# Node
+template/node_modules
+
 .idea
 yarn.lock
 .github
