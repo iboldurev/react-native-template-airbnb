@@ -1,0 +1,15 @@
+{
+  "name": "react-native-template-airbnb",
+  "version": "0.0.1",
+  "description": "React Native Airbnb - Template",
+  "keywords": [
+    "react",
+    "react-native",
+    "cli",
+    "template",
+    "airbnb"
+  ],
+  "main": "template.config.js",
+  "author": "Ivan Boldyrev <iboldurev@gmail.com>",
+  "license": "MIT"
+}
