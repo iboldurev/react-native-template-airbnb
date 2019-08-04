@@ -1,4 +1,4 @@
-# :flexed-biceps: React Native Airbnb Template
+# :muscle: React Native Airbnb Template
 
 > Clean and minimalist React Native template for a quick start.
 
